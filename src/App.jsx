@@ -257,7 +257,7 @@ const profile = {
     },
     {
       label: "Resume",
-      href: "https://drive.google.com/file/d/1arfHC63LRx2-I72njRYmZhHId3K7Cap2/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1WrIYAL6NX20_O82nkXk6QaR3hZI7lWN5/view?usp=sharing",
       icon: "cv",
     },
     { label: "Contact", href: "#contact", icon: "x" },
