@@ -272,7 +272,7 @@ const experiences = [
     role: "Research Student",
     time: "09/2025 - Current",
     location: "Dhahran, Saudi Arabia",
-    logo: "./public/KFUPM_INNOVATION_BLACK.png",
+    logo: "public/KFUPM_INNOVATION_BLACK.png",
     bullets: [
       "Developing a robotic hand for real-time speech-to-sign-language translation.",
       "Designed and assembled CAD model with 16 degrees of freedom.",
@@ -285,7 +285,7 @@ const experiences = [
     role: "Design & Assembly Lead",
     time: "10/2025 - Current",
     location: "Dhahran, Saudi Arabia",
-    logo: "./public/KRT.png",
+    logo: "public/KRT.png",
     bullets: [
       "Currently designing a 22 × 22 × 22 remote-controlled robot to compete in the annual VEX U Pushback 2025 Competition.",
       "Used AutoCAD to design the robot and assembled intake, outtake, and scoring mechanism through a system of motors, flex wheels, and pneumatics.",
@@ -296,7 +296,7 @@ const experiences = [
     role: "Research Student",
     time: "06/2025 - 10/2025",
     location: "KFUPM, Dhahran, Saudi Arabia",
-    logo: "./public/KFUPM_INNOVATION_BLACK.png",
+    logo: "public/KFUPM_INNOVATION_BLACK.png",
     bullets: [
       "Designed and 3D-printed a weather-resistant sensor enclosure (AutoCAD, Fusion 360).",
       "Developed a hybrid drone-detection pipeline on NVIDIA Jetson Nano (Ubuntu) with real-time inference (15–20 FPS).",
@@ -309,7 +309,7 @@ const experiences = [
     role: "Research Student",
     time: "05/2025 - 10/2025",
     location: "KFUPM, Dhahran, Saudi Arabia",
-    logo: "./public/KFUPM_INNOVATION_BLACK.png",
+    logo: "public/KFUPM_INNOVATION_BLACK.png",
     bullets: [
       "Primary author of a 2,700-word literature review on acoustic UAV detection pipelines and signal-processing workflows.",
       "Analyzed 20+ studies (2018–2024) and synthesized findings across noise filtering, feature engineering, classification, and cost effectiveness.",
@@ -334,7 +334,7 @@ const projects = [
     name: "KFUPM Robotics Team: Theeb",
     tagline:
       "Leader of Robot Theeb for the VEX 2026 National Competition",
-    images: ["./public/krt_team.jpeg", "./public/theeb.jpeg", "./public/theeb2.png"],
+    images: ["public/krt_team.jpeg", "public/theeb.jpeg", "public/theeb2.png"],
     functionality: [
       "4:3 Gear Ratio Base for higher torque",
       "L-Pathway with Pneumatic intake",
@@ -378,9 +378,9 @@ const projects = [
     tagline:
       "Edge inference UAV detection with acoustic classification and DoA localization.",
     images: [
-      "./public/Fusion_Drone_detection.png",
-      "./public/drone_detection_1.png",
-      "./public/drone_detection.png",
+      "public/Fusion_Drone_detection.png",
+      "public/drone_detection_1.png",
+      "public/drone_detection.png",
     ],
     functionality: [
       "Real-time inference pipeline (15–20 FPS)",
