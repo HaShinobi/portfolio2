@@ -355,7 +355,7 @@ const projects = [
     name: "Robotic Hand: Speech-to-Sign Translation (IN PROGRESS)",
     tagline:
       "Real-time speech → text → gloss → ASL motion on an embedded robot hand.",
-    images: ["/projects/hand-1.jpg", "/projects/hand-2.jpg", "/projects/hand-3.jpg"],
+    images: ["roboarm1.jpeg", "roboarm2.jpeg", "/projects/hand-3.jpg"],
     functionality: [
       "Speech-to-text pipeline optimized for embedded hardware",
       "Gloss conversion layer feeding motion primitives",
